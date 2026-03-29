@@ -1,2 +1,2 @@
 # odin-recipes-css
-An enhanced recipe website built with HTML and CSS for The Odin Project's "Block and Inline" module.
+An enhanced recipe website built with HTML and CSS for [The Odin Project](https://www.theodinproject.com/)'s "[Block and Inline](https://www.theodinproject.com/lessons/foundations-block-and-inline)" module, expanding on my original [HTML-only recipe website](https://github.com/Falciron/odin-recipes).
