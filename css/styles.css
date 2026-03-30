@@ -22,16 +22,19 @@ html {
 
 .butterscotch {
     background-color: #a27035;
+    border-color: #242331;
     color: #242331;
 }
 
 .caramel {
     background-color: #b88b4a;
+    border-color: #242331;
     color: #242331;
 }
 
 .toffee {
     background-color: #533e2d;
+    border-color: #ddca7d;
     color: #ddca7d;
 }
 
@@ -56,8 +59,7 @@ html {
 }
 
 .recipe-body {
-    border-color: #ddca7d;
-    width: 600px;
+    width: 800px;
 }
 
 .recipe-list {
