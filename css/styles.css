@@ -1,7 +1,80 @@
 html {
-  box-sizing: border-box;
+    box-sizing: border-box;
+    /* Handwritten Font Stack from modernfontstacks.com */
+    font-family: ui-rounded, 'Hiragino Maru Gothic ProN', Quicksand, Comfortaa, Manjari, 'Arial Rounded MT', 'Arial Rounded MT Bold', Calibri, source-sans-pro, sans-serif;
+    font-weight: normal;
 }
 
-*, *:before, *:after {
-  box-sizing: inherit;
+*,
+*:before,
+*:after {
+    box-sizing: inherit;
+}
+
+.page-title {
+    text-align: center;
+}
+
+.candy-coated {
+    background-color: #ddca7d;
+    color: #242331;
+}
+
+.butterscotch {
+    background-color: #a27035;
+    color: #242331;
+}
+
+.caramel {
+    background-color: #b88b4a;
+    color: #242331;
+}
+
+.toffee {
+    background-color: #533e2d;
+    color: #ddca7d;
+}
+
+.centered-image {
+    border-radius: 20px;
+    display: block;
+    margin: 0 auto;
+}
+
+.recipe-heading {
+    margin: 0 auto;
+    text-align: center;
+    width: 500px;
+}
+
+.recipe-body, .recipe-list {
+    border-radius: 20px;
+    border-style: solid;
+    border-width: 2px;
+    margin: 40px auto;
+    padding: 20px;
+}
+
+.recipe-body {
+    border-color: #ddca7d;
+    width: 600px;
+}
+
+.recipe-list {
+    border-color: #242331;
+    text-align: center;
+    width: fit-content;
+}
+
+.recipe-body :first-child {
+    margin-top: 0px;
+}
+
+.recipe-list li {
+    display: inline;
+    margin: 20px;
+}
+
+.recipe-footer {
+    text-align: center;
 }
