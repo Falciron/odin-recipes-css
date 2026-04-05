@@ -11,31 +11,14 @@ html {
     box-sizing: inherit;
 }
 
+body {
+    background-color: #ddca7d;
+    border-color: #242331;
+    color: #242331;
+}
+
 .page-title {
     text-align: center;
-}
-
-.candy-coated {
-    background-color: #ddca7d;
-    color: #242331;
-}
-
-.butterscotch {
-    background-color: #a27035;
-    border-color: #242331;
-    color: #242331;
-}
-
-.caramel {
-    background-color: #b88b4a;
-    border-color: #242331;
-    color: #242331;
-}
-
-.toffee {
-    background-color: #533e2d;
-    border-color: #ddca7d;
-    color: #ddca7d;
 }
 
 .centered-image {
